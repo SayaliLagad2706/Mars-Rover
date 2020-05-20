@@ -6,7 +6,9 @@
 - Algorithms like BFS (Breadth First Search), UCS (Uniform Cost Search), A* search are implemented on the topographical map (graph)
 - The result is, a shortest safe path from source to various destinations
 - Read the project_description.pdf file for details such as path costs, format of input file, etc.
-- Technologies used:
+
+Technologies used:
+  -
   - Artificial Intelligence
   - Language: Python
   - IDE: PyCharm
